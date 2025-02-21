@@ -5,7 +5,7 @@ Ce projet est une application basée sur FastAPI qui gère les données des éco
 ## Structure du Projet
 
 ```
-/api/tp
+/api/projet
 ├── app
 │   ├── __init__.py
 │   ├── auth.py
